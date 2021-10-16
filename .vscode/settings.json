@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "peekpoke.h": "c",
+        "c64.h": "c",
+        "_sid.h": "c",
+        "time.h": "c",
+        "stdio.h": "c",
+        "conio.h": "c"
+    }
+}
